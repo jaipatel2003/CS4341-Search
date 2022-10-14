@@ -4,20 +4,20 @@ Implemented various search methods
 
 Methods Include:
 
-Depth-First Search
+:heavy_check_mark: Depth-First Search
 
-Breadth-First Search
+:heavy_check_mark: Breadth-First Search
 
-Depth-Limited Search
+:heavy_check_mark: Depth-Limited Search
 
-Iterative-Deepening Search
+:heavy_check_mark: Iterative-Deepening Search
 
-Uniform-Cost Search
+:heavy_check_mark: Uniform-Cost Search
 
-Greedy Search
+:heavy_check_mark: Greedy Search
 
-A* Search
+:heavy_check_mark: A* Search
 
-Hill-Climbing Search
+:heavy_check_mark: Hill-Climbing Search
 
-Beam Search
+:heavy_check_mark: Beam Search
